@@ -1,2 +1,2 @@
 # Directions-Reduction
-Javascript:
+Javascript Code In Code wars
